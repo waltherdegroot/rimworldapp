@@ -109,56 +109,56 @@
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechArm",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Archotech_arm",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "archotecheye",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechEye",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Archotech_eye",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "archotechleg",
 		"price": 4667,
 		"category": "Artificial",
 		"defname": "ArchotechLeg",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Archotech_leg",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "arcticfox",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Arctic",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Arctic_fox",
+		"imgurl": "https://rimworldwiki.com/images/e/e1/Arctic_fox.png"
 	},
 	{
 		"abr": "arcticwolf",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Arctic",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Arctic_wolf",
+		"imgurl": "https://rimworldwiki.com/wiki/Arctic_wolf"
 	},
 	{
 		"abr": "armchair",
 		"price": 450,
 		"category": "Furniture",
 		"defname": "Armchair",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "armchair",
+		"imgurl": "https://rimworldwiki.com/images/8/8a/Armchair.png"
 	},
 	{
 		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Assault_rifle",
+		"imgurl": "https://rimworldwiki.com/images/e/e0/Assault_Rifle.png"
 	},
 	{
 		"abr": "autopistol",
