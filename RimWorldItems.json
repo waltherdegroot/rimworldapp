@@ -1085,128 +1085,128 @@
 		"price": 1125,
 		"category": "Art",
 		"defname": "SculptureGrand",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Grand_sculpture",
+		"imgurl": "https://rimworldwiki.com/images/d/de/Grand_sculpture.png"
 	},
 	{
 		"abr": "graniteblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksGranite",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Granite_Blocks",
+		"imgurl": "https://rimworldwiki.com/images/a/af/Granite_Blocks.png"
 	},
 	{
 		"abr": "greatbow",
 		"price": 154,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "greatbow",
+		"imgurl": "https://rimworldwiki.com/images/3/3a/GreatBow.png"
 	},
 	{
 		"abr": "grizzlybear",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bear_Grizzly",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Grizzly_bear",
+		"imgurl": "https://rimworldwiki.com/images/9/94/GrizzlyBear.png"
 	},
 	{
 		"abr": "handtailorbench",
 		"price": 262,
 		"category": "Production",
 		"defname": "HandTailoringBench",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Hand-tailoring_bench",
+		"imgurl": "https://rimworldwiki.com/images/thumb/6/66/TableTailor.png/192px-TableTailor.png"
 	},
 	{
 		"abr": "hare",
 		"price": 83,
 		"category": "Animal",
 		"defname": "Hare",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Hare",
+		"imgurl": "https://rimworldwiki.com/images/4/47/Hare.png"
 	},
 	{
 		"abr": "haremeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Hare",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "hay",
 		"price": 1,
 		"category": "Foods",
 		"defname": "Hay",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Hay",
+		"imgurl": "https://rimworldwiki.com/images/a/aa/Hay.png"
 	},
 	{
 		"abr": "healermechserum",
 		"price": 2167,
 		"category": "Items",
 		"defname": "MechSerumHealer",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Healer_mech_serum",
+		"imgurl": "https://rimworldwiki.com/images/b/b2/Healer_mech_serum.png"
 	},
 	{
 		"abr": "heart",
 		"price": 833,
 		"category": "Natural",
 		"defname": "Heart",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "heart",
+		"imgurl": "https://rimworldwiki.com/images/d/d6/Organ.png"
 	},
 	{
 		"abr": "heater",
 		"price": 218,
 		"category": "Temperature",
 		"defname": "Heater",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Heater",
+		"imgurl": "https://rimworldwiki.com/images/9/93/Heater.png"
 	},
 	{
 		"abr": "heavyfur",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Heavy",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Heavy_fur",
+		"imgurl": "https://rimworldwiki.com/images/7/70/Heavyfur.png"
 	},
 	{
 		"abr": "heavysmg",
 		"price": 592,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Heavy_SMG",
+		"imgurl": "https://rimworldwiki.com/images/c/c6/HeavySMG.png"
 	},
 	{
 		"abr": "herbalmedicine",
 		"price": 17,
 		"category": "Medicine",
 		"defname": "MedicineHerbal",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Herbal_medicine",
+		"imgurl": "https://rimworldwiki.com/images/a/af/Herbal_medicine.png"
 	},
 	{
 		"abr": "high-explosiveshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "High-explosive_shell",
+		"imgurl": "https://rimworldwiki.com/images/6/6c/High-explosive_shell.png"
 	},
 	{
 		"abr": "hoopstonering",
 		"price": 67,
 		"category": "Recreation",
 		"defname": "HoopstoneRing",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Hoopstone_ring",
+		"imgurl": "https://rimworldwiki.com/images/b/b5/Hoopstone_ring.png"
 	},
 	{
 		"abr": "hops",
@@ -1214,71 +1214,71 @@
 		"category": "Plant matter",
 		"defname": "RawHops",
 		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/5/59/Hops.png"
 	},
 	{
 		"abr": "horseshoespin",
 		"price": 34,
 		"category": "Recreation",
 		"defname": "HorseshoesPin",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Horseshoes_pin",
+		"imgurl": "https://rimworldwiki.com/images/a/a8/Horseshoe_and_Horseshoes_Pin.png"
 	},
 	{
 		"abr": "hospitalbed",
 		"price": 667,
 		"category": "Furniture",
 		"defname": "HospitalBed",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Hospital_bed",
+		"imgurl": "https://rimworldwiki.com/images/6/68/HospitalBed.png"
 	},
 	{
 		"abr": "human",
 		"price": 2917,
 		"category": "Animal",
 		"defname": "Human",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "human",
+		"imgurl": "https://rimworldwiki.com/images/b/bd/Thrasher1557.png"
 	},
 	{
 		"abr": "humanleather",
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_Human",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "human_leather",
+		"imgurl": "https://rimworldwiki.com/images/9/9d/Humanleather.png"
 	},
 	{
 		"abr": "humanmeat",
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Human",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "husky",
 		"price": 417,
 		"category": "Animal",
 		"defname": "Husky",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Husky",
+		"imgurl": "https://rimworldwiki.com/images/5/50/Husky.png"
 	},
 	{
 		"abr": "huskymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Husky",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "hyperweave",
 		"price": 15,
 		"category": "Textiles",
 		"defname": "Hyperweave",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Hyperweave",
+		"imgurl": "https://rimworldwiki.com/images/b/b8/Hyperweave.png"
 	},
 	{
 		"abr": "ibex",
