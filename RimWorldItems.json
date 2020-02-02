@@ -165,72 +165,72 @@
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "autopistol",
+		"imgurl": "https://rimworldwiki.com/images/a/a2/Pistol.png"
 	},
 	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
 		"defname": "Battery",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Battery",
+		"imgurl": "https://rimworldwiki.com/images/3/30/Battery.jpg"
 	},
 	{
 		"abr": "bearmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Bear_Grizzly",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "bearskin",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Bear",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "bearskin",
+		"imgurl": "https://rimworldwiki.com/images/7/7e/Missing_leather.png"
 	},
 	{
 		"abr": "bed",
 		"price": 155,
 		"category": "Furniture",
 		"defname": "Bed",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Bed",
+		"imgurl": "https://rimworldwiki.com/images/c/c5/Bed.png"
 	},
 	{
 		"abr": "bedroll",
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Bedroll",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "bedroll",
+		"imgurl": "https://rimworldwiki.com/images/d/d8/Bedroll.png"
 	},
 	{
 		"abr": "beef",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cow",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "beer",
 		"price": 20,
 		"category": "Drugs",
 		"defname": "Beer",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "beer",
+		"imgurl": "https://rimworldwiki.com/images/b/b3/Beer.png"
 	},
 	{
 		"abr": "berries",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawBerries",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "berries",
+		"imgurl": "https://rimworldwiki.com/images/2/24/Berries.png"
 	},
 	{
 		"abr": "billiardstable",
