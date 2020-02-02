@@ -597,88 +597,88 @@
 		"price": 250,
 		"category": "Animal",
 		"defname": "Cobra",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "cobra",
+		"imgurl": "https://rimworldwiki.com/images/0/0e/Cobra.png"
 	},
 	{
-		"abr": "cobraegg(fert.)",
+		"abr": "Cobra_egg_(fert.)",
 		"price": 67,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized",
 		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/a/aa/Egg_small.png"
 	},
 	{
 		"abr": "cobraflesh",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cobra",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "cochlearimplant",
 		"price": 342,
 		"category": "Artificial",
 		"defname": "CochlearImplant",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Cochlear_implant",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "component",
 		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "component",
+		"imgurl": "https://rimworldwiki.com/images/4/40/Component.png"
 	},
 	{
 		"abr": "corn",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawCorn",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Corn",
+		"imgurl": "https://rimworldwiki.com/images/f/f8/Corn.png"
 	},
 	{
 		"abr": "cougar",
 		"price": 667,
 		"category": "Animal",
 		"defname": "Cougar",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Cougar",
+		"imgurl": "https://rimworldwiki.com/images/5/55/Cougar.png"
 	},
 	{
 		"abr": "cougarmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cougar",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "cow",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Cow",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Cow",
+		"imgurl": "https://rimworldwiki.com/images/8/84/Cow.png"
 	},
 	{
 		"abr": "cowboyhat",
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Cowboy_hat",
+		"imgurl": "https://rimworldwiki.com/images/4/40/CowboyHat.png"
 	},
 	{
 		"abr": "deepdrill",
 		"price": 908,
 		"category": "Production",
 		"defname": "DeepDrill",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Deep_drill",
+		"imgurl": "https://rimworldwiki.com/images/a/ad/Deep_drill.png"
 	},
 	{
 		"abr": "deer",
@@ -686,7 +686,7 @@
 		"category": "Animal",
 		"defname": "Deer",
 		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/2/27/Deer.png"
 	},
 	{
 		"abr": "devilstrand",
