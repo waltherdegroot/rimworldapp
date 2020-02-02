@@ -309,8 +309,8 @@
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Bird",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Birdskin",
+		"imgurl": "https://rimworldwiki.com/images/2/2b/Birdskin.png"
 	},
 	{
 		"abr": "bluefur",
@@ -509,7 +509,7 @@
 		"price": 281,
 		"category": "Furniture",
 		"defname": "ChessTable",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Chess_table",
 		"imgurl": "https://rimworldwiki.com/images/3/31/ChessTable.png"
 	},
 	{
@@ -565,7 +565,7 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Chinchilla",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Meat",
 		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
@@ -605,7 +605,7 @@
 		"price": 67,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Cobra_egg_(fert.)",
 		"imgurl": "https://rimworldwiki.com/images/a/aa/Egg_small.png"
 	},
 	{
@@ -685,7 +685,7 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "Deer",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Deer",
 		"imgurl": "https://rimworldwiki.com/images/2/27/Deer.png"
 	},
 	{
@@ -1213,7 +1213,7 @@
 		"price": 2,
 		"category": "Plant matter",
 		"defname": "RawHops",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Haps",
 		"imgurl": "https://rimworldwiki.com/images/5/59/Hops.png"
 	},
 	{
@@ -1285,7 +1285,7 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "Ibex",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Ibex",
 		"imgurl": "https://rimworldwiki.com/images/a/af/Ibex.png"
 	},
 	{
@@ -1333,8 +1333,8 @@
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "IED_trap",
+		"imgurl": "https://rimworldwiki.com/images/2/2f/IED_trap.png"
 	},
 	{
 		"abr": "iguana",
@@ -1645,7 +1645,7 @@
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Megasloth",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "megasloth",
 		"imgurl": "https://rimworldwiki.com/images/3/37/Megatherium.png"
 	},
 	{
@@ -1965,103 +1965,103 @@
 		"price": 400,
 		"category": "Furniture",
 		"defname": "PokerTable",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Poker_table",
+		"imgurl": "https://rimworldwiki.com/images/0/08/Poker_table.png"
 	},
 	{
 		"abr": "polarbear",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bear_Polar",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Polar_bear",
+		"imgurl": "https://rimworldwiki.com/images/1/1a/Polar_bear.png"
 	},
 	{
 		"abr": "pork",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Pig",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "potatoes",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawPotatoes",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Potatoes",
+		"imgurl": "https://rimworldwiki.com/images/4/42/Potatoes.png"
 	},
 	{
 		"abr": "powerclaw",
 		"price": 2000,
 		"category": "Artificial",
 		"defname": "PowerClaw",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Power_claw",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "prostheticarm",
 		"price": 408,
 		"category": "Artificial",
 		"defname": "SimpleProstheticArm",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Prosthetic_arm",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "prostheticheart",
 		"price": 358,
 		"category": "Artificial",
 		"defname": "SimpleProstheticHeart",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Prosthetic_heart",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "prostheticleg",
 		"price": 408,
 		"category": "Artificial",
 		"defname": "SimpleProstheticLeg",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Prosthetic_leg",
+		"imgurl": "https://rimworldwiki.com/images/1/12/Artificial_Organ.png"
 	},
 	{
 		"abr": "psychicanimalpulser",
 		"price": 1167,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychic_animal_pulser",
+		"imgurl": "https://rimworldwiki.com/images/3/38/Psychic_animal_pulser.png"
 	},
 	{
 		"abr": "psychicemanator",
 		"price": 2167,
 		"category": "Special",
 		"defname": "PsychicEmanator",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychic_emanator",
+		"imgurl": "https://rimworldwiki.com/images/2/24/Psychic_emanator.png"
 	},
 	{
 		"abr": "psychicfoilhelmet",
 		"price": 417,
 		"category": "Headgear",
 		"defname": "Apparel_PsychicFoilHelmet",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychic_foil_helmet",
+		"imgurl": "https://rimworldwiki.com/images/9/93/PsychicFoilHelmet.png"
 	},
 	{
 		"abr": "psychicinsanitylance",
 		"price": 1083,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychic_insanity_lance",
+		"imgurl": "https://rimworldwiki.com/images/a/a8/Psychic_insanity_lance.png"
 	},
 	{
 		"abr": "psychicshocklance",
 		"price": 917,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Psychic_insanity_lance",
 		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
 	},
 	{
@@ -2069,720 +2069,720 @@
 		"price": 1000,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychic_soothe_pulser",
+		"imgurl": "https://rimworldwiki.com/images/1/19/Psychic_soothe_pulser.png"
 	},
 	{
 		"abr": "psychitetea",
 		"price": 17,
 		"category": "Drugs",
 		"defname": "PsychiteTea",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychite_tea",
+		"imgurl": "https://rimworldwiki.com/images/2/28/Psychite_tea.png"
 	},
 	{
 		"abr": "psychoidleaves",
 		"price": 3,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Psychoid_leaves",
+		"imgurl": "https://rimworldwiki.com/images/0/09/Psychoid_leaves.png"
 	},
 	{
 		"abr": "pumpshotgun",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Pump_shotgun",
+		"imgurl": "https://rimworldwiki.com/images/3/32/Pump_shotgun.png"
 	},
 	{
 		"abr": "raccoon",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Raccoon",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Raccoon",
+		"imgurl": "https://rimworldwiki.com/images/7/7c/Raccoon.png"
 	},
 	{
 		"abr": "raccoonmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Raccoon",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "rat",
 		"price": 58,
 		"category": "Animal",
 		"defname": "Rat",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Rat",
+		"imgurl": "https://rimworldwiki.com/images/8/8b/Rat.png"
 	},
 	{
 		"abr": "ratmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rat",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "rawfungus",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawFungus",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Raw_fungus",
+		"imgurl": "https://rimworldwiki.com/images/e/ea/Raw_fungus.png"
 	},
 	{
 		"abr": "recurvebow",
 		"price": 110,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Recurve_bow",
+		"imgurl": "https://rimworldwiki.com/images/a/a7/RecurveBow.png"
 	},
 	{
 		"abr": "redfox",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Red",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Red_Fox",
+		"imgurl": "https://rimworldwiki.com/images/f/f0/Red_fox.png"
 	},
 	{
 		"abr": "resurrectormechserum",
 		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrector",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Resurrector_mech_serum",
+		"imgurl": "https://rimworldwiki.com/images/d/d8/Resurrector_mech_serum.png"
 	},
 	{
 		"abr": "revolver",
 		"price": 226,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Revolver",
+		"imgurl": "https://rimworldwiki.com/images/6/6d/Revolver.png"
 	},
 	{
 		"abr": "rhinoceros",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Rhinoceros",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Rhinoceros",
+		"imgurl": "https://rimworldwiki.com/images/3/33/Rhinoceros.png"
 	},
 	{
 		"abr": "rhinocerosleather",
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_Rhinoceros",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Rhinoceros_leather",
+		"imgurl": "https://rimworldwiki.com/images/4/46/Rhinocerosleather.png"
 	},
 	{
 		"abr": "rhinocerosmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rhinoceros",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "rice",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawRice",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Rice",
+		"imgurl": "https://rimworldwiki.com/images/d/da/Rice.png"
 	},
 	{
 		"abr": "royalbed",
 		"price": 1467,
 		"category": "Furniture",
 		"defname": "RoyalBed",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Royal_bed",
+		"imgurl": "https://rimworldwiki.com/images/e/e0/RoyalBed_actual.png"
 	},
 	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Sandstone_Blocks",
+		"imgurl": "https://rimworldwiki.com/images/3/32/Sandstone_Blocks.png"
 	},
 	{
 		"abr": "sculptor'stable",
 		"price": 425,
 		"category": "Production",
 		"defname": "TableSculpting",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Sculptor%27s_table",
+		"imgurl": "https://rimworldwiki.com/images/thumb/4/49/TableSculpting.png/192px-TableSculpting.png"
 	},
 	{
 		"abr": "shelf",
 		"price": 104,
 		"category": "Furniture",
 		"defname": "Shelf",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "shelf",
+		"imgurl": "https://rimworldwiki.com/images/d/d2/EquipmentRack.png"
 	},
 	{
 		"abr": "shieldbelt",
 		"price": 650,
 		"category": "Apparel",
 		"defname": "Apparel_ShieldBelt",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Shield_belt",
+		"imgurl": "https://rimworldwiki.com/images/b/ba/ShieldBelt.png"
 	},
 	{
 		"abr": "shortbow",
 		"price": 74,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Short_bow",
+		"imgurl": "https://rimworldwiki.com/images/d/de/ShortBow.png"
 	},
 	{
 		"abr": "silver",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Silver",
+		"imgurl": "https://rimworldwiki.com/images/0/0b/Silver.png"
 	},
 	{
 		"abr": "simplehelmet",
 		"price": 153,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Simple_helmet",
+		"imgurl": "https://rimworldwiki.com/images/9/96/M1Helmet.png"
 	},
 	{
 		"abr": "simplemeal",
 		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Simple_meal",
+		"imgurl": "https://rimworldwiki.com/images/0/09/Simple_meal.png"
 	},
 	{
 		"abr": "simpleresearchbench",
 		"price": 350,
 		"category": "Production",
 		"defname": "SimpleResearchBench",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Simple_research_bench",
+		"imgurl": "https://rimworldwiki.com/images/thumb/d/d3/ResearchBench.png/256px-ResearchBench.png"
 	},
 	{
 		"abr": "slateblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSlate",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Slate_Blocks",
+		"imgurl": "https://rimworldwiki.com/images/7/72/Slate_Blocks.png"
 	},
 	{
 		"abr": "smallsculpture",
 		"price": 275,
 		"category": "Art",
 		"defname": "SculptureSmall",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Small_sculpture",
+		"imgurl": "https://rimworldwiki.com/images/2/2a/Small_sculpture.png"
 	},
 	{
 		"abr": "smokeleafjoint",
 		"price": 18,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Smokeleaf_joint",
+		"imgurl": "https://rimworldwiki.com/images/d/d3/Smokeleaf_joint.png"
 	},
 	{
 		"abr": "smokeleafleaves",
 		"price": 3,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Smokeleaf_leaves",
+		"imgurl": "https://rimworldwiki.com/images/0/07/Smokeleaf_leaves.png"
 	},
 	{
 		"abr": "smokepopbelt",
 		"price": 277,
 		"category": "Apparel",
 		"defname": "Apparel_SmokepopBelt",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Smokepop_belt",
+		"imgurl": "https://rimworldwiki.com/images/1/17/SmokepopBelt.png"
 	},
 	{
 		"abr": "sniperrifle",
 		"price": 883,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Sniper_rifle",
+		"imgurl": "https://rimworldwiki.com/images/f/f7/SniperRifle.png"
 	},
 	{
 		"abr": "snowhare",
 		"price": 83,
 		"category": "Animal",
 		"defname": "Snowhare",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Snowhare",
+		"imgurl": "https://rimworldwiki.com/images/c/c6/Snowhare.png"
 	},
 	{
 		"abr": "spear",
 		"price": 322,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Spear",
+		"imgurl": "https://rimworldwiki.com/images/4/4f/Spear.png"
 	},
 	{
 		"abr": "spelopede",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Spelopede",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Spelopede",
+		"imgurl": "https://rimworldwiki.com/images/3/34/Spelopede.png"
 	},
 	{
 		"abr": "spiketrap",
 		"price": 136,
 		"category": "Security",
 		"defname": "TrapSpike",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Spike_trap",
+		"imgurl": "https://rimworldwiki.com/images/2/23/DeadfallTrap.png"
 	},
 	{
 		"abr": "squirrel",
 		"price": 58,
 		"category": "Animal",
 		"defname": "Squirrel",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Squirrel",
+		"imgurl": "https://rimworldwiki.com/images/4/41/Squirrel.png"
 	},
 	{
 		"abr": "squirrelmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Squirrel",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "standinglamp",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "standing_lamp",
+		"imgurl": "https://rimworldwiki.com/images/5/56/Standing_lamp.png"
 	},
 	{
 		"abr": "standinglamp(blue)",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp_Blue",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Standing_lamp_(blue)",
+		"imgurl": "https://rimworldwiki.com/images/2/2a/StandingLampBlue.png"
 	},
 	{
 		"abr": "standinglamp(green)",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp_Green",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Standing_lamp_(green)",
+		"imgurl": "https://rimworldwiki.com/images/8/8a/StandingLampGreen.png"
 	},
 	{
 		"abr": "standinglamp(red)",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp_Red",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Standing_lamp_(red)",
+		"imgurl": "https://rimworldwiki.com/images/7/7d/StandingLampRed.png"
 	},
 	{
 		"abr": "steel",
 		"price": 3,
 		"category": "Raw resources",
 		"defname": "Steel",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Steel",
+		"imgurl": "https://rimworldwiki.com/images/c/c9/Steel.png"
 	},
 	{
 		"abr": "stonecutter'stable",
 		"price": 358,
 		"category": "Production",
 		"defname": "TableStonecutter",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Stonecutter%27s_table",
+		"imgurl": "https://rimworldwiki.com/images/thumb/f/f6/TableStonecutter.png/192px-TableStonecutter.png"
 	},
 	{
 		"abr": "stool",
 		"price": 86,
 		"category": "Furniture",
 		"defname": "Stool",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Stool",
+		"imgurl": "https://rimworldwiki.com/images/2/2b/WoodStool.png"
 	},
 	{
 		"abr": "sunlamp",
 		"price": 129,
 		"category": "Furniture",
 		"defname": "SunLamp",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Sun_lamp",
+		"imgurl": "https://rimworldwiki.com/images/f/f3/LampSun.png"
 	},
 	{
 		"abr": "synthread",
 		"price": 7,
 		"category": "Textiles",
 		"defname": "Synthread",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Synthread",
+		"imgurl": "https://rimworldwiki.com/images/6/60/Synthread.png"
 	},
 	{
 		"abr": "table(1x2)",
 		"price": 98,
 		"category": "Furniture",
 		"defname": "Table1x2c",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Table#Table_.281x2.29",
+		"imgurl": "https://rimworldwiki.com/images/3/37/WoodTableShort.png"
 	},
 	{
 		"abr": "table(2x2)",
 		"price": 176,
 		"category": "Furniture",
 		"defname": "Table2x2c",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Table#Table_.282x2.29",
+		"imgurl": "https://rimworldwiki.com/images/3/37/WoodTableShort.png"
 	},
 	{
 		"abr": "table(2x4)",
 		"price": 333,
 		"category": "Furniture",
 		"defname": "Table2x4c",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Table#Table_.282x4.29",
+		"imgurl": "https://rimworldwiki.com/images/4/4f/WoodTableLong.png"
 	},
 	{
 		"abr": "table(3x3)",
 		"price": 350,
 		"category": "Furniture",
 		"defname": "Table3x3c",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Table#Table_.283x3.29",
+		"imgurl": "https://rimworldwiki.com/images/3/37/WoodTableShort.png"
 	},
 	{
 		"abr": "techprofsubpersonacore",
 		"price": 1667,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Techprof_subpersona_core",
+		"imgurl": "https://rimworldwiki.com/images/8/8b/Techprof_subpersona_core.png"
 	},
 	{
 		"abr": "telescope",
 		"price": 583,
 		"category": "Recreation",
 		"defname": "Telescope",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Telescope",
+		"imgurl": "https://rimworldwiki.com/images/6/6c/Telescope.png"
 	},
 	{
 		"abr": "thrumbo",
 		"price": 6667,
 		"category": "Animal",
 		"defname": "Thrumbo",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Thrumbo",
+		"imgurl": "https://rimworldwiki.com/images/2/22/Thrumbo.png"
 	},
 	{
 		"abr": "thrumbohorn",
 		"price": 1333,
 		"category": "Items",
 		"defname": "ThrumboHorn",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Thrumbo_horn",
+		"imgurl": "https://rimworldwiki.com/images/0/0c/Thrumbo_horn.png"
 	},
 	{
 		"abr": "thrumbomeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Thrumbo",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "thrumbofur",
 		"price": 23,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Thrumbofur",
+		"imgurl": "https://rimworldwiki.com/images/5/5d/Thrumbofur.png"
 	},
 	{
 		"abr": "timberwolf",
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Timber",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Timber_wolf",
+		"imgurl": "https://rimworldwiki.com/images/a/af/Timber_wolf.png"
 	},
 	{
 		"abr": "toolcabinet",
 		"price": 642,
 		"category": "Misc",
 		"defname": "ToolCabinet",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tool_cabinet",
+		"imgurl": "https://rimworldwiki.com/images/7/7d/Tool_cabinet.png"
 	},
 	{
 		"abr": "tornadogenerator",
 		"price": 1333,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tornado_generator",
+		"imgurl": "https://rimworldwiki.com/images/e/e3/OrbitalTargeter.png"
 	},
 	{
 		"abr": "tortoise",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Tortoise",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tortoise",
+		"imgurl": "https://rimworldwiki.com/images/c/cd/Tortoise.png"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
 		"price": 38,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tortoise_egg_(fert.)",
+		"imgurl": "https://rimworldwiki.com/images/a/aa/Egg_small.png"
 	},
 	{
 		"abr": "tortoisemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Tortoise",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "tribalheaddress",
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_TribalHeaddress",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tribal_headdress",
+		"imgurl": "https://rimworldwiki.com/images/5/50/Tribal_headdress.png"
 	},
 	{
 		"abr": "tribalwear",
 		"price": 211,
 		"category": "Apparel",
 		"defname": "Apparel_TribalA",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tribalwear",
+		"imgurl": "https://rimworldwiki.com/images/4/40/Tribalwear.png"
 	},
 	{
 		"abr": "triplerocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Triple_rocket_launcher",
+		"imgurl": "https://rimworldwiki.com/images/a/ae/Triple_rocket_launcher.png"
 	},
 	{
 		"abr": "t-shirt",
 		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_BasicShirt",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "T-shirt",
+		"imgurl": "https://rimworldwiki.com/images/8/89/T-Shirt.png"
 	},
 	{
 		"abr": "tubetelevision",
 		"price": 525,
 		"category": "Recreation",
 		"defname": "TubeTelevision",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tube_television",
+		"imgurl": "https://rimworldwiki.com/images/f/fa/Tube_television.png"
 	},
 	{
 		"abr": "tuque",
 		"price": 91,
 		"category": "Headgear",
 		"defname": "Apparel_Tuque",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Tuque",
+		"imgurl": "https://rimworldwiki.com/images/1/1a/Tuque.png"
 	},
 	{
 		"abr": "turkey",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Turkey",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Turkey",
+		"imgurl": "https://rimworldwiki.com/images/b/b3/Turkey.png"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
 		"price": 18,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Turkey_egg_(fert.)",
+		"imgurl": "https://rimworldwiki.com/images/a/aa/Egg_small.png"
 	},
 	{
 		"abr": "turkeymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Turkey",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
 		"defname": "Uranium",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Uranium",
+		"imgurl": "https://rimworldwiki.com/images/3/31/Uranium.png"
 	},
 	{
 		"abr": "vanometricpowercell",
 		"price": 2000,
 		"category": "Special",
 		"defname": "VanometricPowerCell",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Vanometric_power_cell",
+		"imgurl": "https://rimworldwiki.com/images/3/32/Vanometric_power_cell.png"
 	},
 	{
 		"abr": "venison",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Deer",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "vitalsmonitor",
 		"price": 358,
 		"category": "Misc",
 		"defname": "VitalsMonitor",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Vitals_monitor",
+		"imgurl": "https://rimworldwiki.com/images/0/07/Vitals_monitor.png"
 	},
 	{
 		"abr": "wake-up",
 		"price": 58,
 		"category": "Drugs",
 		"defname": "WakeUp",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Wake-up",
+		"imgurl": "https://rimworldwiki.com/images/e/ef/Wake-up.png"
 	},
 	{
 		"abr": "warmask",
 		"price": 101,
 		"category": "Headgear",
 		"defname": "Apparel_WarMask",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "War_mask",
+		"imgurl": "https://rimworldwiki.com/images/0/01/War_mask.png"
 	},
 	{
 		"abr": "warveil",
 		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_WarVeil",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "War_veil",
+		"imgurl": "https://rimworldwiki.com/images/b/b4/War_veil.png"
 	},
 	{
 		"abr": "warg",
 		"price": 750,
 		"category": "Animal",
 		"defname": "Warg",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Warg",
+		"imgurl": "https://rimworldwiki.com/images/2/27/Warg.png"
 	},
 	{
 		"abr": "wargmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Warg",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "wildboar",
 		"price": 333,
 		"category": "Animal",
 		"defname": "WildBoar",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Wild_boar",
+		"imgurl": "https://rimworldwiki.com/images/6/6f/Boar.png"
 	},
 	{
 		"abr": "wolfmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Wolf_Timber",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "wolfskin",
 		"price": 5,
 		"category": "Leathers",
 		"defname": "Leather_Wolf",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Wolfskin",
+		"imgurl": "https://rimworldwiki.com/images/a/ab/Wolfskin.png"
 	},
 	{
 		"abr": "wood",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "WoodLog",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Wood",
+		"imgurl": "https://rimworldwiki.com/images/d/df/Wood.png"
 	},
 	{
 		"abr": "wort",
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "Wort",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Wort",
+		"imgurl": "https://rimworldwiki.com/images/9/94/Wort.png"
 	},
 	{
 		"abr": "yayo",
 		"price": 35,
 		"category": "Drugs",
 		"defname": "Yayo",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Yayo",
+		"imgurl": "https://rimworldwiki.com/images/b/b7/Yayo.png"
 	},
 	{
 		"abr": "yorkshireterrier",
 		"price": 167,
 		"category": "Animal",
 		"defname": "YorkshireTerrier",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Yorkshire_terrier",
+		"imgurl": "https://rimworldwiki.com/images/9/94/Yorkshire_terrier.png"
 	},
 	{
 		"abr": "yorkshireterriermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	}
 	],
 	"total": 348
