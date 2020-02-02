@@ -726,7 +726,7 @@
 		"category": "Furniture",
 		"defname": "DoubleBed",
 		"wikiname": "Double_bed",
-		"imgurl": "https://rimworldwiki.com/images/c/c1/Double_bedroll.png"
+		"imgurl": "https://rimworldwiki.com/images/5/5b/Double_bed.png"
 	},
 	{
 		"abr": "doublebedroll",
@@ -734,7 +734,7 @@
 		"category": "Furniture",
 		"defname": "BedrollDouble",
 		"wikiname": "Double_bedroll",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/c/c1/Double_bedroll.png"
 	},
 	{
 		"abr": "dresser",
@@ -1325,8 +1325,8 @@
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary",
-		"wikiname": "IED_firefoam_trap",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "IED_incendiary_trap",
+		"imgurl": "https://rimworldwiki.com/images/9/9e/IED_incendiary_trap.png"
 	},
 	{
 		"abr": "iedtrap",
@@ -1814,7 +1814,7 @@
 		"category": "Animal",
 		"defname": "Ostrich",
 		"wikiname": "Ostrich",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/a/ad/Ostrich.png"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
@@ -2062,7 +2062,7 @@
 		"category": "Artifacts",
 		"defname": "PsychicShockLance",
 		"wikiname": "Psychic_insanity_lance",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/8/82/Psychic_shock_lance.png"
 	},
 	{
 		"abr": "psychicsoothepulser",
