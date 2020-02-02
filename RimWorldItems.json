@@ -693,47 +693,47 @@
 		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "devilstrand",
+		"imgurl": "https://rimworldwiki.com/images/f/f7/Devilstrand.png"
 	},
 	{
 		"abr": "diningchair",
 		"price": 198,
 		"category": "Furniture",
 		"defname": "DiningChair",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Dining_chair",
+		"imgurl": "https://rimworldwiki.com/images/b/b0/DiningChair.png"
 	},
 	{
 		"abr": "dogleather",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Dog",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Dog_leather",
+		"imgurl": "https://rimworldwiki.com/images/2/27/Dogleather.png"
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Doomsday_rocket_launcher",
+		"imgurl": "https://rimworldwiki.com/images/8/88/RocketLauncher.png"
 	},
 	{
 		"abr": "doublebed",
 		"price": 292,
 		"category": "Furniture",
 		"defname": "DoubleBed",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Double_bed",
+		"imgurl": "https://rimworldwiki.com/images/c/c1/Double_bedroll.png"
 	},
 	{
 		"abr": "doublebedroll",
 		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDouble",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "Double_bedroll",
 		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
 	},
 	{
@@ -741,40 +741,40 @@
 		"price": 179,
 		"category": "Furniture",
 		"defname": "Dresser",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Dresser",
+		"imgurl": "https://rimworldwiki.com/images/a/a1/Dresser.png"
 	},
 	{
 		"abr": "dromedary",
 		"price": 500,
 		"category": "Animal",
 		"defname": "Dromedary",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Dromedary",
+		"imgurl": "https://rimworldwiki.com/images/6/6a/Dromedary.png"
 	},
 	{
 		"abr": "dromedarymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Dromedary",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "druglab",
 		"price": 742,
 		"category": "Production",
 		"defname": "DrugLab",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Drug_lab",
+		"imgurl": "https://rimworldwiki.com/wiki/Drug_lab"
 	},
 	{
 		"abr": "duster",
 		"price": 327,
 		"category": "Apparel",
 		"defname": "Apparel_Duster",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "duster",
+		"imgurl": "https://rimworldwiki.com/images/a/a0/Duster.png"
 	},
 	{
 		"abr": "electricsmelter",
