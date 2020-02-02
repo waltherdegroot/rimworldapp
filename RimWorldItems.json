@@ -1286,46 +1286,46 @@
 		"category": "Animal",
 		"defname": "Ibex",
 		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"imgurl": "https://rimworldwiki.com/images/a/af/Ibex.png"
 	},
 	{
 		"abr": "ibexmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Ibex",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
 		"price": 2008,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "IED_antigrain_warhead_trap",
+		"imgurl": "https://rimworldwiki.com/images/e/ee/IED_antigrain_warhead_trap.png"
 	},
 	{
 		"abr": "iedemptrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_EMP",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "IED_EMP_trap",
+		"imgurl": "https://rimworldwiki.com/images/5/56/IED_EMP_trap.png"
 	},
 	{
 		"abr": "iedfirefoamtrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "IED_EMP_trap",
+		"imgurl": "https://rimworldwiki.com/images/6/69/IED_firefoam_trap.png"
 	},
 	{
 		"abr": "iedincendiarytrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary",
-		"wikiname": "Alpaca_wool",
+		"wikiname": "IED_firefoam_trap",
 		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
 	},
 	{
@@ -1341,168 +1341,168 @@
 		"price": 167,
 		"category": "Animal",
 		"defname": "Iguana",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Iguana",
+		"imgurl": "https://rimworldwiki.com/images/a/af/Iguana.png"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
 		"price": 42,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Iguana_egg_(fert.)",
+		"imgurl": "https://rimworldwiki.com/images/a/aa/Egg_small.png"
 	},
 	{
 		"abr": "iguanameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Iguana",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "ikwa",
 		"price": 197,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Ikwa",
+		"imgurl": "https://rimworldwiki.com/images/7/76/Ikwa.png"
 	},
 	{
 		"abr": "incendiarylauncher",
 		"price": 508,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Incendiary_launcher",
+		"imgurl": "https://rimworldwiki.com/images/5/54/T-9IncendiaryLauncher.png"
 	},
 	{
 		"abr": "incendiaryshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Incendiary",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Incendiary_shell",
+		"imgurl": "https://rimworldwiki.com/images/b/b2/Incendiary_shell.png"
 	},
 	{
 		"abr": "infinitechemreactor",
 		"price": 2500,
 		"category": "Special",
 		"defname": "InfiniteChemreactor",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Infinite_chemreactor",
+		"imgurl": "https://rimworldwiki.com/images/6/65/Infinite_chemreactor.png"
 	},
 	{
 		"abr": "insectjelly",
 		"price": 13,
 		"category": "Animal products",
 		"defname": "InsectJelly",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Insect_jelly",
+		"imgurl": "https://rimworldwiki.com/images/f/f3/Insect_jelly.png"
 	},
 	{
 		"abr": "insectmeat",
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Megaspider",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "jacket",
 		"price": 275,
 		"category": "Apparel",
 		"defname": "Apparel_Jacket",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Jacket",
+		"imgurl": "https://rimworldwiki.com/images/7/7a/Jacket.png"
 	},
 	{
 		"abr": "jade",
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "Jade",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Jade",
+		"imgurl": "https://rimworldwiki.com/images/7/7e/Jade.png"
 	},
 	{
 		"abr": "joywire",
 		"price": 1333,
 		"category": "Artificial",
 		"defname": "Joywire",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Joywire",
+		"imgurl": "https://rimworldwiki.com/images/9/9c/Implant.png"
 	},
 	{
 		"abr": "kibble",
 		"price": 2,
 		"category": "Foods",
 		"defname": "Kibble",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Kibble",
+		"imgurl": "https://rimworldwiki.com/images/8/8f/Kibble.png"
 	},
 	{
 		"abr": "kidney",
 		"price": 417,
 		"category": "Natural",
 		"defname": "Kidney",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Kidney",
+		"imgurl": "https://rimworldwiki.com/images/d/d6/Organ.png"
 	},
 	{
 		"abr": "knife",
 		"price": 111,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Knife",
+		"imgurl": "https://rimworldwiki.com/images/5/58/Knife.png"
 	},
 	{
 		"abr": "labradorretriever",
 		"price": 417,
 		"category": "Animal",
 		"defname": "LabradorRetriever",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Labrador_retriever",
+		"imgurl": "https://rimworldwiki.com/images/1/1f/Labrador_retriever.png"
 	},
 	{
 		"abr": "labradorretrievermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_LabradorRetriever",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Meat",
+		"imgurl": "https://rimworldwiki.com/images/5/57/MeatBig.png"
 	},
 	{
 		"abr": "largesculpture",
 		"price": 517,
 		"category": "Art",
 		"defname": "SculptureLarge",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Large_sculpture",
+		"imgurl": "https://rimworldwiki.com/images/0/0d/Large_sculpture.png"
 	},
 	{
 		"abr": "lavishmeal",
 		"price": 67,
 		"category": "Meals",
 		"defname": "MealLavish",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Lavish_meal",
+		"imgurl": "https://rimworldwiki.com/images/a/a7/Lavish_meal.png"
 	},
 	{
 		"abr": "lightleather",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Light",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Lightleather",
+		"imgurl": "https://rimworldwiki.com/images/c/c0/Lightleather.png"
 	},
 	{
 		"abr": "limestoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksLimestone",
-		"wikiname": "Alpaca_wool",
-		"imgurl": "https://rimworldwiki.com/images/3/34/Wool.png"
+		"wikiname": "Limestone_Blocks",
+		"imgurl": "https://rimworldwiki.com/images/2/27/Limestone_Blocks.pngg"
 	},
 	{
 		"abr": "liver",
