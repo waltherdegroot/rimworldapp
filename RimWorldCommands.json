@@ -1,0 +1,61 @@
+{
+	"commands": [
+		{
+			"name": "bal",
+			"description": "Check balance and karma rate.",
+			"usage": "!bal"
+		},
+		{
+			"name": "buy",
+			"description": "Buy an item or event.",
+			"usage": "!buy beer 6 or !buy meteor"
+		},
+		{
+			"name": "whatiskarma",
+			"description": "Explains what the karma system is.",
+			"usage": "!whatiskarma"
+		},
+		{
+			"name": "instructions",
+			"description": "Gives users info on using the mod.",
+			"usage": "!instructions"
+		},
+		{
+			"name": "modinfo",
+			"description": "Gives users info about the mod.",
+			"usage": "!modinfo"
+		},
+		{
+			"name": "modsettings",
+			"description": "Gives user info on how many coins are being earned and global settings.",
+			"usage": "!modsettings"
+		},
+		{
+			"name": "giftcoins",
+			"description": "Give another viewer your coins.",
+			"usage": "!giftcoins @username 100"
+		},
+		{
+			"name": "toolkitcmds",
+			"description": "Shows all available commands to the user, this does not translate by default so it can be universally recognized.",
+			"usage": "!toolkitcmds"
+		},
+		{
+			"name": "buy ticket",
+			"description": "Join the viewer name queue.",
+			"usage": "!buy ticket"
+		},
+		{
+			"name": "mypawnstory",
+			"description": "View information about your pawns backstory.",
+			"usage": "!mypawnstory"
+		},
+		{
+			"name": "mypawnskills",
+			"description": "View information about your pawns skills",
+			"usage": "!mypawnskills"
+		}
+
+	],
+	"total": 66
+}
